@@ -1,7 +1,7 @@
 ![readme-headers_Prancheta 1](https://user-images.githubusercontent.com/30063455/110525094-f4a7a300-80f2-11eb-8c6d-903120ec168b.png)
 # ListLength
 
-This is a application developed as a challenge for Elixir Ignite Bootcamp, proposed by RocketSeat.
+This is an application developed as a challenge for Elixir Ignite Bootcamp, proposed by RocketSeat.
 
 ## About the challenge
 
