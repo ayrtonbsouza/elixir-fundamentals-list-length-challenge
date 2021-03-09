@@ -9,16 +9,16 @@ In this challenge, I must create a function that, given a list of numbers (for e
 
 For example, we have the following input and output expected by the function that receives the list:
 
-`` bash
+``` bash
 iex> ListLength.call ([1, 2, 3, 5, 7])
 ...> 5
-``
+```
 
 To do this, you can start a project using the command:
 
-`` bash
+``` bash
 mix new list_length
-``
+```
 
 Where `list_length` is the name given to the project.
 
